@@ -1,0 +1,10 @@
+# KiCad user / temp files
+*.bak
+*.tmp
+*.kicad_prl
+*.kicad_pro.user
+*-cache.lib
+*-rescue.*
+_autosave-*
+*backups*/
+fp-info-cache
