@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'STM32U575RGT6TR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "STM32U575RGT6TR" (!) = "", "QFP50P1200X1200X160-64N", "Quad Flat Packages", "511-STM32U575RGT6TR", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32U575RGT6TR?qs=T%252BzbugeAwjjwoz%252BinJLUwQ%3D%3D", "Ultra-low-power Arm Cortex-M33 32-bit MCU+TrustZone+FPU, 240 DMIPS, up to 2 MB Flash memory, 786 KB SRAM", "https://www.st.com/resource/en/datasheet/stm32u575ag.pdf", "1.6 mm"
+END_PART
+
+END.

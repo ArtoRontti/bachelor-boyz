@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=STM32U575VIT6Q
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat Packages
+PinCount=100
+Version=3.1
+Released=2022-02-20 09:37:33
+Downloaded=2026-02-10 08:36:52
+3D=Y
