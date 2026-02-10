@@ -1428,6 +1428,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KIPRJMOD}/libraries/3dmodels/STM32U575VIT6Q.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "STM32U575RGT6TR:QFP50P1200X1200X160-64N"
 		(layer "F.Cu")
@@ -2289,6 +2300,17 @@
 			)
 			(rotate
 				(xyz -90 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/libraries/3dmodels/STM32U575RGT6TR.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
 			)
 		)
 	)
